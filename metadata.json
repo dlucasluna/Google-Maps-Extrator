@@ -1,0 +1,7 @@
+{
+  "name": "Google Maps Extrator by Lucas Luna",
+  "description": "Uma ferramenta avançada para pesquisar empresas locais usando a IA do Google Gemini, visualizar detalhes e exportar leads para Excel/CSV.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
